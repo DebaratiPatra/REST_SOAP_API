@@ -1,17 +1,17 @@
-# REST & SOAP API Project 🚀
+# REST & SOAP API Project 
 
 This project demonstrates both **REST** and **SOAP** APIs built using **JavaScript (Node.js)** for an employee web service.
 
 ---
 
-## 📁 Folders
+## Folders
 
 - `REST API`: Contains all RESTful API logic (controllers, models, etc.)
 - `SOAP API`: Contains SOAP-based service logic
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 - Node.js
 - Express.js
